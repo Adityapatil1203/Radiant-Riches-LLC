@@ -98,7 +98,4 @@ yarn add react-router
 ```
 
 
-## ScreenShots
-
-<a href="https://rrlc.netlify.app/"><img src="https://github.com/akashpawar43/Radiant-Riches/blob/master/public/website.png" alt="website screenshot"></a>
 

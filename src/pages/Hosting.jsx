@@ -114,7 +114,7 @@ export default function Hosting() {
                             </div>
                             {host.lebel &&
                                 <Button
-                                    className="cursor-pointer flex items-center justify-center left-[2%] min-w-[136px] ml-[-1rem] absolute rounded-br-lg rounded-tr-lg top-[0]"
+                                    className="cursor-pointer flex items-center justify-center left-[2%] min-w-[136px] ml-[-1rem] z-10 absolute rounded-br-lg rounded-tr-lg top-[0]"
                                     leftIcon={
                                         <Img
                                             className="h-5 mt-px mr-2 top-[0] right-[1%]"
